@@ -1,3 +1,7 @@
+生產器>>[https://creativecommons.org/choose/](https://creativecommons.org/choose/)
+
+---
+
 ![cc_BY](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png)
 
 [https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png)
@@ -39,5 +43,3 @@
 
 姓名標示-非商業性-禁止改作
 本授權條款為六個主要授權條款中限制最多者。僅允許使用者在下載授權者的著作之後，依原狀態分享出去。使用者必須按照授權者指定的方式表彰其姓名，但不得對著作進行任何方式的改變，或為商業目的之使用。
-
-生產器>>[https://creativecommons.org/choose/](https://creativecommons.org/choose/)
