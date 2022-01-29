@@ -4,7 +4,7 @@
 
 姓名標示
 
-![ccBY](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png)
+![ccBY](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-29-by-300x105.png?raw=true)
 
 ```
 ![cc_BY](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-29-by-300x105.png?raw=true)
