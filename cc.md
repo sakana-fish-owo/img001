@@ -18,10 +18,10 @@
 
 姓名標示-相同方式分享
 
-![cc_BYSA](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-40-39-by-sa-300x105.png)
+![cc_BYSA](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-40-39-by-sa-300x105.png?raw=true)
 
 ```
-![cc_BYSA](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-40-39-by-sa-300x105.png)
+![cc_BYSA](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-40-39-by-sa-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示-相同方式分享 4.0 國際 授權條款** 授權.
@@ -32,10 +32,10 @@
 
 姓名標示-禁止改作
 
-![cc_BYND](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-35-by-nd-300x105.png)
+![cc_BYND](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-35-by-nd-300x105.png?raw=true)
 
 ```
-![cc_BYND](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-35-by-nd-300x105.png)
+![cc_BYND](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-35-by-nd-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示-禁止改作 4.0 國際 授權條款** 授權.
@@ -46,10 +46,10 @@
 
 姓名標示-非商業性
 
-![cc_BYNC](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-42-by-nc-300x105.png)
+![cc_BYNC](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-42-by-nc-300x105.png?raw=true)
 
 ```
-![cc_BYNC](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-42-by-nc-300x105.png)
+![cc_BYNC](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-42-by-nc-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示-非商業性 4.0 國際 授權條款** 授權.
@@ -60,10 +60,10 @@
 
 姓名標示-非商業性-相同方式分享
 
-![cc_BYNCSA](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-44-by-nc-sa-300x105.png)
+![cc_BYNCSA](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-44-by-nc-sa-300x105.png?raw=true)
 
 ```
-![cc_BYNCSA](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-44-by-nc-sa-300x105.png)
+![cc_BYNCSA]https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-44-by-nc-sa-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款** 授權.
@@ -74,10 +74,10 @@
 
 姓名標示-非商業性-禁止改作
 
-![cc_BYNCND](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-50-by-nc-nd-300x105.png)
+![cc_BYNCND](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-50-by-nc-nd-300x105.png?raw=true)
 
 ```
-![cc_BYNCND](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-50-by-nc-nd-300x105.png)
+![cc_BYNCND](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-50-by-nc-nd-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示-非商業性-禁止改作 4.0 國際 授權條款** 授權.
