@@ -7,7 +7,7 @@
 ![ccBY](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png)
 
 ```
-![cc_BY](https://raw.githubusercontent.com/sakana-fish-owo/img001/main/2022/01/29-09-41-29-by-300x105.png)
+![cc_BY](https://github.com/sakana-fish-owo/img001/blob/main/2022/01/29-09-41-29-by-300x105.png?raw=true)
 ```
 
 本著作係採用 **創用 CC 姓名標示 4.0 國際 授權條款** 授權.
